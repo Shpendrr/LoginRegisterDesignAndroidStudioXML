@@ -1,4 +1,2 @@
 # LoginRegisterDesignAndroidStudioXML
 
-
-fikkkkkkkkkkprieeeeee
